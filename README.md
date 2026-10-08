@@ -24,25 +24,21 @@
 
 ![Dashboard](screenshots/dashboard.png)
 
-> **📸 SCREENSHOT:** `dashboard.png` — Show the main StudyBuddy interface.
 
 ### Study Material
 
 ![Study Material](screenshots/study-material.png)
 
-> **📸 SCREENSHOT:** `study-material.png` — Show an uploaded textbook, PDF, or notes being used.
 
 ### AI Tools
 
 ![AI Tools](screenshots/ai-tools.png)
 
-> **📸 SCREENSHOT:** `ai-tools.png` — Show the available AI tools such as quizzes, summaries, flashcards, or mind maps.
 
 ### Quiz / Flashcards
 
 ![Quiz](screenshots/quiz.png)
 
-> **📸 SCREENSHOT:** `quiz.png` — Show a generated quiz or flashcard session.
 
 ---
 
