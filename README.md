@@ -1,64 +1,75 @@
-## 🎯 Why StudyBuddy AI?
+# 📚 StudyBuddy AI
 
-Traditional studying often involves reading hundreds of pages, making notes manually, and searching through textbooks for answers. StudyBuddy AI simplifies this process by turning static learning materials into interactive study tools.
+> An AI-powered study companion that turns textbooks, notes, and PDFs into interactive learning tools.
 
-Instead of spending hours creating revision resources, students can instantly generate:
-
-* 🧠 Mind Maps for visual learning
-* ❓ Quizzes for self-assessment
-* 📝 Summaries for quick revision
-* 🎴 Flashcards for active recall
-* 💬 AI-powered answers to questions about the material
-
-This allows students to focus more on understanding concepts and less on preparing study resources.
+🌐 **Live Demo:** https://studybuddyai-iota.vercel.app/
 
 ---
 
-## 📚 Supported Study Materials
+## ✨ Features
 
-StudyBuddy AI can work with various educational resources, including:
-
-* Textbooks
-* PDF Documents
-* Lecture Notes
-* Study Guides
-* Research Papers
-* Class Handouts
-* Revision Notes
+* 📄 Upload and study learning materials
+* 🧠 Generate AI mind maps
+* ❓ Create quizzes
+* 🎴 Generate flashcards
+* 📝 Summarize chapters and notes
+* 💬 Ask questions about your study material
+* 🔍 Explore difficult concepts with AI-powered explanations
 
 ---
 
-## 🌟 Key Benefits
+## 📸 Screenshots
 
-### Save Time
+### Dashboard
 
-Generate study materials in seconds instead of spending hours creating them manually.
+![Dashboard](screenshots/dashboard.png)
 
-### Learn More Effectively
+> **📸 SCREENSHOT:** `dashboard.png` — Show the main StudyBuddy interface.
 
-Use active learning techniques such as quizzes and flashcards to improve retention.
+### Study Material
 
-### Understand Complex Topics
+![Study Material](screenshots/study-material.png)
 
-Visualize concepts through AI-generated mind maps and explanations.
+> **📸 SCREENSHOT:** `study-material.png` — Show an uploaded textbook, PDF, or notes being used.
 
-### Personalized Learning
+### AI Tools
 
-Ask questions specific to your uploaded material and receive tailored answers.
+![AI Tools](screenshots/ai-tools.png)
 
-### Better Exam Preparation
+> **📸 SCREENSHOT:** `ai-tools.png` — Show the available AI tools such as quizzes, summaries, flashcards, or mind maps.
 
-Identify important topics, test your knowledge, and revise efficiently.
+### Quiz / Flashcards
+
+![Quiz](screenshots/quiz.png)
+
+> **📸 SCREENSHOT:** `quiz.png` — Show a generated quiz or flashcard session.
 
 ---
 
-## 🎓 Who Is It For?
+## 🛠️ Built With
 
-* School Students
-* University Students
-* Teachers & Educators
-* Self-Learners
-* Researchers
-* Lifelong Learners
+* HTML
+* JavaScript
+* Tailwind CSS
+* AI-powered learning tools
+* Vercel
 
-Whether you're preparing for an exam, learning a new subject, or reviewing class notes, StudyBuddy AI helps you study smarter and achieve better results.
+---
+
+## 🎯 Purpose
+
+StudyBuddy is designed to make revision faster by turning static study materials into interactive resources.
+
+**Upload → Generate → Study → Understand**
+
+---
+
+## 👨‍💻 Author
+
+**Rayan Sajid**
+
+Built as an AI-powered learning project.
+
+---
+
+⭐ If you find StudyBuddy useful, consider starring the repository.
